@@ -1,5 +1,3 @@
-#RESEARCH COLLABORATORS & RECRUITERS CAN MAIL ME AT ssz.cprog@gmail.com FOR ALL 20 CODE FILES, SETUP & DOCUMENTATION
-
 db = pd.read_csv("cab_data.csv")
 print(db)  # Img_1
 
